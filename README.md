@@ -1,7 +1,6 @@
 # DND Character Creator
 ###### Quickly create a vanilla 5e character's race, class and alignment!
 
-
 ## How to use:
 Install the dependencies required with the following commands:
 
